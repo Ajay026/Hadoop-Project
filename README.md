@@ -42,4 +42,7 @@ Hive is based on Apache Hadoop, an open-source system for storing and processing
 ● For connection through PuTTY, the PEM file has to be converted to PPK using PuTTYgen.  
 
 Installation steps here..
-https://github.com/Ajay026/Hadoop-Project/blob/main/Installation%20and%20Execution.pdf
+https://github.com/Ajay026/Hadoop-Project/blob/main/Installation%20and%20Execution.pdf  
+
+Source code here..
+https://github.com/Ajay026/Hadoop-Project/tree/main/Codes  
